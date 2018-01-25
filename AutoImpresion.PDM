@@ -1,0 +1,120 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\Carlos\Mis documentos\Proyectos Visual Basic\AutoImpresion\Package
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\Archivos de programa\ActiveReports\actrpt.dll=
+C:\Program Files\Common Files\System\ado\msado28.tlb=
+C:\Program Files\ActiveReports\actrpt.dll=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\Windows\System32\MSCOMCTL.OCX=
+
+[Package|Standard Setup Package 1|Files Added]
+c:\documents and settings\carlos\mis documentos\proyectos visual basic\autoimpresion\bd\autoimpresion.mdb=
+c:\users\carlos\documents\proyectos visual basic\autoimpresion\bd\conf.txt=
+
+[Package|Standard Setup Package 1|Files Removed]
+c:\archivos de programa\microsoft visual studio\vb98\wizards\pdwizard\redist\mdac_typ.exe=
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Documents and Settings\Carlos\Mis documentos\Proyectos Visual Basic\AutoImpresion\BD\AutoImpresion.mdb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\ActiveReports\actrpt.dll=Yes
+C:\Program Files\Common Files\System\ado\msado28.tlb=Yes
+C:\Windows\System32\MSCOMCTL.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Windows\System32\TABCTL32.OCX=Yes
+C:\Users\Carlos\Documents\Proyectos Visual Basic\AutoImpresion\BD\Conf.txt=Yes
+C:\Users\Carlos\Documents\Proyectos Visual Basic\AutoImpresion\PrintLabels.exe=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\Documents and Settings\Carlos\Mis documentos\Proyectos Visual Basic\AutoImpresion\AutoImpresion.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\ActiveReports\actrpt.dll=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\Carlos\Mis documentos\Proyectos Visual Basic\AutoImpresion\BD\AutoImpresion.mdb=$(AppPath)\BD
+C:\Users\Carlos\Documents\Proyectos Visual Basic\AutoImpresion\AutoImpresion.exe=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\ActiveReports\actrpt.dll=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado28.tlb=$(WinSysPath)
+C:\Windows\System32\MSCOMCTL.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Windows\System32\TABCTL32.OCX=$(WinSysPath)
+C:\Users\Carlos\Documents\Proyectos Visual Basic\AutoImpresion\BD\Conf.txt=$(AppPath)\BD
+C:\Users\Carlos\Documents\Proyectos Visual Basic\AutoImpresion\PrintLabels.exe=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Carlos\Mis documentos\Proyectos Visual Basic\AutoImpresion\AutoImpresion.exe=No
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Documents and Settings\Carlos\Mis documentos\Proyectos Visual Basic\AutoImpresion\BD\AutoImpresion.mdb=No
+C:\Users\Carlos\Documents\Proyectos Visual Basic\AutoImpresion\AutoImpresion.exe=No
+C:\Users\Carlos\Documents\Proyectos Visual Basic\AutoImpresion\BD\Conf.txt=No
+C:\Users\Carlos\Documents\Proyectos Visual Basic\AutoImpresion\PrintLabels.exe=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=AutoImpresion
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=AutoImpresion
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|AutoImpresion]
+Icon1=AutoImpresion.exe
+Title1=AutoImpresion
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=C:\Documents and Settings\Carlos\Mis documentos\Proyectos Visual Basic\AutoImpresion\Package
+ProjectFolder=C:\Users\Carlos\Documents\Proyectos Visual Basic\AutoImpresion
+ServerSideCab=
+File1=C:\Documents and Settings\Carlos\Mis documentos\Proyectos Visual Basic\AutoImpresion\Package\setup.exe
+File2=C:\Documents and Settings\Carlos\Mis documentos\Proyectos Visual Basic\AutoImpresion\Package\Setup.Lst
+File3=C:\Documents and Settings\Carlos\Mis documentos\Proyectos Visual Basic\AutoImpresion\Package\PrintLabels.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
